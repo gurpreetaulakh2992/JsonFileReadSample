@@ -1,0 +1,24 @@
+{
+	"firstName":["Gurpreet","Mandeep","Navdeep","Vedant"],
+	"lastName":["Kaur","Kaur","Kaur","Chokshi"],
+	"address":[
+	{
+		"street":"Redbank Cres",
+		"city":"Mississauga",
+		"state":"Ontario"
+	},{
+		"street":"Morning Star",
+		"city":"Mississauga1",
+		"state":"Ontario"
+	},{
+		"street":"Derry Road",
+		"city":"Brampton",
+		"state":"Ontario"
+	},{
+		"street":"5241 Bluffers",
+		"city":"Toronto",
+		"state":"Ontario"
+	}],
+	"grades":["A","A-","A","A"],
+	"contact":[9501190050,8569325263,8956237412,8965231472]
+}
